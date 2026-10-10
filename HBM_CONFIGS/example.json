@@ -1,0 +1,126 @@
+{
+    "TASK_ORDER": [],
+    "TASK_ACTIVATE": [],
+    "SHOP_VIP_FREE": false,
+    "SHOP_VIP_SWITCH": false,
+    "SHOP_VIP_AP": false,
+    "AP_TICKET_BUY_TIMES": 1,
+    "SHOP_ORGAN": [
+        {
+            "enabled": false,
+            "col": 1,
+            "row": 1
+        },
+        {
+            "enabled": false,
+            "col": 1,
+            "row": 2
+        },
+        {
+            "enabled": false,
+            "col": 2,
+            "row": 1
+        },
+        {
+            "enabled": false,
+            "col": 2,
+            "row": 2
+        },
+        {
+            "enabled": false,
+            "col": 3,
+            "row": 1
+        },
+        {
+            "enabled": false,
+            "col": 3,
+            "row": 2
+        },
+        {
+            "enabled": false,
+            "col": 4,
+            "row": 1
+        },
+        {
+            "enabled": false,
+            "col": 4,
+            "row": 2
+        },
+        {
+            "enabled": false,
+            "col": 5,
+            "row": 1
+        },
+        {
+            "enabled": false,
+            "col": 5,
+            "row": 2
+        },
+        {
+            "enabled": false,
+            "col": 6,
+            "row": 1
+        },
+        {
+            "enabled": false,
+            "col": 6,
+            "row": 2
+        },
+        {
+            "enabled": false,
+            "col": 7,
+            "row": 1
+        },
+        {
+            "enabled": false,
+            "col": 7,
+            "row": 2
+        }
+    ],
+    "SHOP_ORGAN_SWITCH": false,
+    "SHOP_ORGAN_BUYALL": false,
+    "ORGAN_TYPE": "PAY",
+    "TRAINING_ONE_SWEEP": true,
+    "AUTOPVE_BUY": false,
+    "PVP_MAX_TIMES": 8,
+    "PVP_VICTORY_TIMES": 2,
+    "TARGET_EMULATOR_PATH": "",
+    "CLOSE_EMULATOR_HBM": false,
+    "CLOSE_EMULATOR_FINISH": false,
+    "CLOSE_GAME_FINISH": false,
+    "CLOSE_HBM_FINISH": false,
+    "PIC_PATH": "./DATA/assets",
+    "ACTIVITY_PATH": "com.tencent.KiHan/com.tencent.KiHan.MainActivity",
+    "NEXT_CONFIG": "",
+    "ADB_PATH": "./tools/adb/adb.exe",
+    "SCREENSHOT_NAME": "e2419474.png",
+    "TARGET_IP_PATH": "127.0.0.1",
+    "TARGET_PORT": 5555,
+    "KILL_PORT_IF_EXIST": false,
+    "TIME_AFTER_CLICK": 0.7,
+    "RESPOND_Y": 40,
+    "LOCK_SERVER_TO_RESPOND_Y": true,
+    "ENABLE_MAIL_NOTI": false,
+    "MAIL_USER": "",
+    "MAIL_PASS": "",
+    "ADVANCED_EMAIL": false,
+    "SENDER_EMAIL": "",
+    "RECEIVER_EMAIL": "",
+    "MAIL_HOST": "",
+    "RUN_UNTIL_TRY_TIMES": 9,
+    "RUN_UNTIL_WAIT_TIME": 0.6,
+    "ADB_DIRECT_USE_SERIAL_NUMBER": false,
+    "ADB_SEIAL_NUMBER": "emulator-5554",
+    "ENABLE_HTTP_NOTI": false,
+    "TARGET_HTTP_URL": "http://www.pushplus.plus/send?token=[token]&title=[title]&content=[content]&template=txt",
+    "TARGET_HTTP_TOKEN": "",
+    "USE_MEMORY_IMAGE": false,
+    "PRE_COMMAND": "",
+    "POST_COMMAND": "",
+    "USER_DEF_TASKS": "",
+    "GAME_LOGIN_TIMEOUT": 600,
+    "MAX_RESTART_EMULATOR_TIMES": 0,
+    "SCREENSHOT_METHOD": "pipe",
+    "OPEN_GAME_APP_TASK": true,
+    "DO_POST_ALL_TASK": true
+}
