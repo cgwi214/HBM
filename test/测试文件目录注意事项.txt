@@ -1,0 +1,1 @@
+HBM_CPU_TEST.bat中的PID需要自行查找
