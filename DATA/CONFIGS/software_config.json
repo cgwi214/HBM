@@ -1,9 +1,0 @@
-{
-    "DUMMYKEY": "passwd",
-    "ENCRYPT_KEY": "32866",
-    "NOTE": {
-        "HARD_NOTE": ""
-    },
-    "SAVE_LOG_TO_FILE": true,
-    "SAVE_ERR_CUSTOM_LOG": true
-}
